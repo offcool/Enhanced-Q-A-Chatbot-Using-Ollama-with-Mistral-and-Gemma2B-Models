@@ -56,6 +56,15 @@ else:
 
 
 
+st.markdown("---")
+st.write("#### About this App")
+# Link button with icon
+st.link_button("For more information, visit us .","https://github.com/offcool/Enhanced-Q-A-Chatbot-Using-Ollama-with-Mistral-and-Gemma2B-Models") 
+
+st.markdown("---")
+st.markdown("© 2024 SHERPA Engineering MENA. All rights reserved.")
+
+
 
 
 
